@@ -1,6 +1,6 @@
 ### Deploy:
 
-1. Deploy disponível em: https://RAFILKLDEV.io/dia-zero/ via GitHub Pages.
+1. Deploy disponível em: https://github.com/RAFILKLDEV/dia-zero via GitHub Pages.
 
 ### Sobre o projeto:
 
