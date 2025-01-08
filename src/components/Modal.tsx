@@ -98,8 +98,8 @@ export default function Modal() {
 								className="flex mb-2 gap-3 items-start bg-gray-50 p-3 rounded-md shadow-sm"
 							>
 								<img
-									src="/icons/user.avif"
-									alt={`Imagem de perfil do autor ${author || "desconhecido"}`}
+									src={"./icons/user.avif"}
+									alt={`Imagem de perfil do autor ${author}`}
 									height={50}
 									width={50}
 									className="border-[1px] rounded-full"
